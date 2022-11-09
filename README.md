@@ -13,9 +13,9 @@
 <h2>Tecnologias usadas</h2>
 
 <ul>
-   <li>ReactJs<li>
-   <li>Pokeapi<li>
-   <li>canva<li>
-   <li>movavi<li>
-   <li>Material designer<li>
+   <li>ReactJs</li>
+   <li>Pokeapi</li>
+   <li>canva</li>
+   <li>movavi</li>
+   <li>Material designer</li>
 </ul>
